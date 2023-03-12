@@ -7,6 +7,6 @@
 	<link rel="stylesheet" href="">
 </head>
 <body>
-	<img src="under_constr.jpeg" style="width: 1350px; height: 620px; ">
+	<img src="under_constr.jpg" style="width: 1350px; height: 675px; ">
 </body>
 </html>
